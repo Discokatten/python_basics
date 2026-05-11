@@ -1,0 +1,1 @@
+Hello, this is an inventory-taskThis is another line!
