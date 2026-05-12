@@ -1,0 +1,5 @@
+name,score,city,passed
+Ana,92,Stockholm,True
+Bo,0,Gothenburg,False
+Lia,78,Malmo,True
+Noa,74,Uppsala,False
